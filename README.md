@@ -6,7 +6,7 @@ create fake graphql with zero coding.😃
 #### run it
 
 ```terminal
-  json-graphql-server --p 4500
+  json-graphql-server db.js --p 4500
 ```
 you can change db.js
 
